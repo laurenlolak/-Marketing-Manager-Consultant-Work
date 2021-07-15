@@ -1,6 +1,8 @@
 # Marketing-Manager-Consultant-Work
 
-<b>Hootsuite - Halloween Event Marketing Campaign</b>
+# Hootsuite Social Media Scheduling
+     
+<b> Halloween Event Marketing Campaign</b>
 
 This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020.The strategy was;
 -	Set clear expectations regarding the customer experience during the event.
@@ -30,7 +32,9 @@ For Facebook, the window for B2C is between 9-10am, 12-1pm and 4-5pm daily. Orig
      style="float: left; margin-right: 0.5px;" /> 
      
      
-<b>Community Outreach and Marketing - The Empty Chest: Halloween Event</b>
+# Community Outreach and Marketing
+     
+<b>The Empty Chest: Halloween Event</b>
 
 I wrote the below article content and reached out to a variety of bloggers, media outlets, community postings and made networking connections for The Empty Chest. The Halloween Event was featured in a Vancouver Sun article, mentioned beside heavy hitters such as Vancouver Horror Nights, Howlover Canada, Maan Farms: Haunted Corn Maze and PNE's Slayland.
 
@@ -61,7 +65,9 @@ I wrote the below article content and reached out to a variety of bloggers, medi
      alt="Foodgressing Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<b>Copywriting - Real Eyes Optometry</b>
+# Blog Copywriting
+     
+<b>Real Eyes Optometry</b>
      
 <b>Blog: Contact Lenses vs. Glasses (5 Professional Pros & Cons)</b>     
 Contact Lenses vs. Glasses? The choice is personal and the best option for you is heavily tied in with your lifestyle. Read our top 5 professional pros and cons for each.
@@ -91,7 +97,7 @@ April is all about Womens Health. Learn the facts, if you are at risk, and what 
 </UL>          
 
      
-<b> Social Media Branding Revamp</b>
+# Social Media Branding Revamp
 
 This Thanksgiving Campaign was for a Scopo client, Café and Caterer Tastefully Yours by Jeff. During October 2nd to October 8th, we ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
 
@@ -146,6 +152,3 @@ Presentation was created for Main Street Animal Hospital, a veterinary clinic th
 <UL><LI><a href="https://drive.google.com/file/d/15-2ybyYivAPlfje1mvg5q-VE1Ywx7z2h/view?usp=sharing">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
 
-
-<img src="Product School Logo.jpg" 
-      style="float: left; margin-right: 0.25px;" />    

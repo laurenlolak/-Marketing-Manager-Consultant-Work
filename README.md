@@ -3,9 +3,7 @@
 
 # The Empty Chest - Small B2C Events Company 
 
-<b> Halloween Event Marketing Campaign</b>
-
-<b>Outcome Summary</b>
+<b> Halloween Event Marketing Campaign - Outcome Summary</b>
 
 <b>Stage 1 - Content Creation </b> 
 - Photoshoot scheduled, set design completed, curated narrative for shoot.
@@ -95,7 +93,7 @@ Social media posts were used to generate interest in the event, with the longer-
 
 <b>Website Management & Marketing Plan Presentation</b>
 
-<b>Outcome</b>
+<b>Presentation - Outcome</b>
 - Café and Caterer, Tastefully Yours by Jeff, signed with Scopo Digital for a 12 month agreement after I lead the below presentation. 
      
 This presentation I created for a business owner in the food and beverage industry based in Langley, BC.  I used a combination of food analogies and statistics to break down the technical concepts of the following;
@@ -123,11 +121,11 @@ After completion of a basic website structure check, drag test, SEO score assess
 <UL><LI><a href="Tastefully Yours by Jeff - Web Management & Marketing Plan Presentation.pdf">PDF Presentation: Website Management & Marketing Plan</a>
 </UL>
      
-<b>Thanksgiving Meal Package</b>  
+<b>Thanksgiving Meal Package Campagign</b>  
 
 From October 2nd to October 8th, I ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%.
      
-<b>Outcome</b>
+<b>Thanksgiving Campagin - Outcome</b>
 
 <b>Cross Marketing </b>     
 - Two out of three targeted cross marketing companies responded to our postings. Messages were exchanged with @cobsbread to prime Tastefully Yours By Jeff for future partnerships.  

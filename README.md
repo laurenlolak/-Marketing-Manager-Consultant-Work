@@ -14,16 +14,16 @@ Based on customer ask, the below strategy was developed;
 <b>Stage 1 - Content Creation</b>
 The Empty Chest has a unique Halloween event that pulls its customers into its own immersive world. Drawing customers into that fantasy is done through a combination of storytelling and imagery. Content creation is important, not only having vivid images to post on their website and social media (to advertise and increase following), but also helps set customer expecations on the experience. A photoshoot was scheduled and curated the visuals and narrative which resulted in compelling imagry that was essential in drawing customers into the world and increase the effectiveness of the following stages.
 
-<img src="The Empty Chest Images 1.jpg" 
-     alt="The Empty Chest Images 1.jpg" 
+<img src="The Empty Chest Images 1.png" 
+     alt="The Empty Chest Images 1.png" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<img src="The Empty Chest Images 2.jpg" 
-     alt="The Empty Chest Images 2.jpg" 
+<img src="The Empty Chest Images 2.png" 
+     alt="The Empty Chest Images 2.png" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<img src="The Empty Chest Images 3.jpg" 
-     alt="The Empty Chest Images 3.jpg" 
+<img src="The Empty Chest Images 3.png" 
+     alt="The Empty Chest Images 3.png" 
      style="float: left; margin-right: 0.5px;" /> 
 
 <b>Outcome:</b> 

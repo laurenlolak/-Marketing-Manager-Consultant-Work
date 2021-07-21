@@ -148,8 +148,6 @@ May is Vision Health Month, an opportunity to raise awareness about the importan
 </UL>       
      
      
-     
-     
 # Tastefully Yours by Jeff - Cafe & Caterer
 
 <b>Website Management & Marketing Plan Presentation</b>

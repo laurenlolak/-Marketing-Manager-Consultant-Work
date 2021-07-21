@@ -100,6 +100,13 @@ Social media posts were used to generate interest in the event, with the longer-
 
 Created original content to appeal to the Real Eyes Optometry audience. Writing about their business in a way that promotes their interests to their customers. Copy is specifically designed to compliment the structure of the website and take into account vital search engine optimization (SEO) practices. 
       
+ <b>Product Web Page: Radio Frequency Treatment for Dry Eye and Anti-Aging</b>     
+Radio Frequency for Dry Eye and Anti-Aging treatment all in one. With No Surgery. No Needles. No Downtime.
+     
+<UL><LI><a href="https://www.realeyesoptometry.com/radio-frequency-for-dry-eye/>Visit Product Page</a>
+</UL>     
+     
+
 <b>Blog: Contact Lenses vs. Glasses (5 Professional Pros & Cons)</b>     
 Contact Lenses vs. Glasses? The choice is personal and the best option for you is heavily tied in with your lifestyle. Read our top 5 professional pros and cons for each.
      
@@ -125,7 +132,22 @@ April is all about Womens Health. Learn the facts, if you are at risk, and what 
 April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
      
 <UL><LI><a href="https://www.realeyesoptometry.com/9-dry-eye-symptoms-wrinkle-treatment/>Visit Blog</a>
-</UL>              
+</UL>   
+
+     
+<b>Blog: UV Affect On Your Eyes & Skin (5 Helpful Overexposure Tips)</b>     
+Without UV protection, your eyes can get sunburned the same way skin can. Learn how to protect your eyes, and what happens if your eyes are damaged.
+     
+<UL><LI><a href="https://www.realeyesoptometry.com/uv-affect-on-eyes-and-skin/>Visit Blog</a>
+</UL>       
+     
+       
+<b>Blog: Best Reasons to See Your Optometrist (An Eye Exam Could Help Save Your Life)</b>     
+May is Vision Health Month, an opportunity to raise awareness about the importance of eye health, the role optometrists play, and what can be done to help prevent vision loss.      
+<UL><LI><a href=https://www.realeyesoptometry.com/optometrist-eye-exam-save-your-life/>Visit Blog</a>
+</UL>       
+     
+     
      
      
 # Tastefully Yours by Jeff - Cafe & Caterer

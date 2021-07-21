@@ -4,6 +4,26 @@
 
 <b> Halloween Event Marketing Campaign</b>
 
+<b>Outcome Summary</b>
+
+<b>Stage 1 - Content Creation </b> 
+- Photoshoot scheduled, set design completed, curated narrative for shoot.
+- 17 images selected to express The Emtpy Chest Halloween event narrative.
+- Images were vital to the success in Stage 2 and Stage 3.
+
+<b>Stage 2 - Community Marketing and Outreach</b> 
+- Free article in the Vancouver Sun
+- Free article on Vancouver is Awesome
+- Postings on 20+ event listings
+- Connected with Fuggles and Warlocks (local breway) to prepare for next year and utilize their extensive reach on social media.
+
+<b>Stage 3 - Social Media Blast</b> 
+34 Social Media Posts, 29 Insta stories, and 3 stories highlight between October 15, 2020 - October 31, 2020
+- Instagram followers increased 84% 
+- Contact Interactions increased 34%
+- Accounts Reached increase 100%<
+- All event tickets sold out October 27th 
+
 This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020. The customer ask was;
 -	Set clear expectations regarding the customer experience during the event.
 -	Write a compelling narrative that creates interest by pulling the reader into the storyline.
@@ -26,10 +46,6 @@ The Empty Chest has a unique Halloween event that pulls its customers into its o
      alt="The Empty Chest Images 3.png" 
      style="float: left; margin-right: 0.5px;" /> 
 
-<b>Outcome:</b> 
-- Photoshoot scheduled, set design completed, curated narrative for shoot.
-- 17 images selected to express The Emtpy Chest Halloween event narrative.
-- Images were vital to the success in Stage 2 and Stage 3.
 
 <b>Stage 2 - Community Marketing and Outreach</b>
 Halloween is the best time of the year as far as I am concerned! When researching Halloween activities, sites such as tourismvancouver.ca, vancouversbestplaces.ca or vancouverisawesome.com is where consumers typically locate event listings for seasonal activities like Halloween. We reached out to niche hobbyist groups online to promote within the larping and gaming communities to extend our marketing reach. In addition, we reached out to free online platforms and leverage their sites to gain additional reach.
@@ -52,21 +68,9 @@ The Halloween Event was also featured in a solo media blog posting by Vancouver 
      alt="Vancouver Is Awesome Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
      
-<b>Outcome:</b> 
-- Free article in the Vancouver Sun
-- Free article on Vancouver is Awesome
-- Postings on 20+ event listings
-- Connected with Fuggles and Warlocks (local breway) to prepare for next year and utilize their extensive reach on social media.
      
-<b>Stage 3 - Social Media Posts</b>
+<b>Stage 3 - Social Media Blast</b>
 Social media posts were used to generate interest in the event, with the longer-term goal of increasing followers in anticipation of future events. This will assist with driving awareness for future campaigns focused on the quarterly events and provide us analytic data for assessment. Posts were scheduled over a 3 week period, adjusted weekly based on Instagram and Google Analytic insights to leverage maximim awareness windows. 
-
-<b>Outcome:</b> 
-34 Social Media Posts, 29 Insta stories, and 3 stories highlight between October 15, 2020 - October 31, 2020
-- Instagram followers increased 84% 
-- Contact Interactions increased 34%
-- Accounts Reached increase 100%<
-- All event tickets sold out October 27th 
 
 <UL><LI><a href="https://www.instagram.com/theemptychest/">Instagram Account: The Empty Chest</a>
 </UL>
@@ -90,6 +94,9 @@ Social media posts were used to generate interest in the event, with the longer-
 
 <b>Website Management & Marketing Plan Presentation</b>
 
+<b>Outcome</b>
+- Café and Caterer, Tastefully Yours by Jeff, signed with Scopo Digital for a 12 month agreement after I lead the below presentation. 
+     
 This presentation I created for a business owner in the food and beverage industry based in Langley, BC.  I used a combination of food analogies and statistics to break down the technical concepts of the following;
 
 -	Why website maintenance is important
@@ -117,21 +124,15 @@ After completion of a basic website structure check, drag test, SEO score assess
      
 <b>Thanksgiving Meal Package</b>  
 
-Café and Caterer, Tastefully Yours by Jeff, signed with Scopo Digital after the above presentation that I lead. From October 2nd to October 8th, I ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%. 
+From October 2nd to October 8th, I ran an Instagram Thanksgiving Campaign with 9 posts, with the goal of increasing followers by 1-2%, and interest in the Thanksgiving Meal Packages by 3-5%.
+     
+<b>Outcome</b>
 
-     <UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Instagram Account: Tastefully Yours by Jeff</a>
-</UL>
-          
-Outcome:
-- Social Media Revamp
-    
-<img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
-     alt="Instagram Profile - Before & After.jpg" 
-     style="float: left; margin-right: 0.5px;" />
-          
-<b>Outreach Marketing</b> 
-          
-I wrote the below article content and reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
+<b>Cross Marketing </b>     
+- Two out of three targeted cross marketing companies responded to our postings. Messages were exchanged with @cobsbread to prime Tastefully Yours By Jeff for future partnerships.  
+
+<b>Community Outreach </b>     
+-  Free article on Foodgressing site. I wrote the below article content and reached out to a variety of bloggers, media outlets, community postings and made networking connections for Tastefully Yours By Jeff. The Thanksgiving Meal Package was featured in a media blog posting by Foodgressing. and mentioned beside heavy hitters such as Fairmont Pacific Rim, Pan Pacific Vancouver, The Sandbar, and The Flying Pig.
 
 <UL><LI><a href="https://foodgressing.com/thanksgiving-vancouver-2020/">Foodgressing Thanksgiving Vancouver 2020 Article</a>
 </UL> 
@@ -139,12 +140,28 @@ I wrote the below article content and reached out to a variety of bloggers, medi
 <img src="Foodgressing Image.jpg" 
      alt="Foodgressing Image.jpg" 
      style="float: left; margin-right: 0.5px;" /> 
-     
-  
+          
+<b>Social Media Revamp</b>
+     - Set up Instagram and Facebook business profile for the business
+     - Optimizied profile text, bio link, created Thanksgiving highlight
+     - 9 Posts between October 1 - October 8 2020
+     - Instagram followers increased by 3.5%
+     - Thanksgiving Meal Packages sold exceeded historical numbers by 14%
+    
+ <UL><LI><a href="https://www.instagram.com/tastefullyyoursbyjeff/">Instagram Account: Tastefully Yours by Jeff</a>
+</UL>
+      
+<img src="Tastefully Yours by Jeff - Instagram Before & After.jpg" 
+     alt="Instagram Profile - Before & After.jpg" 
+     style="float: left; margin-right: 0.5px;" />
+           
+ 
 # Real Eyes Optometry - Optometrist
      
-<b>Copy Writing</b>
-     
+<b>SEO Copy Writing</b>
+
+Created original content to appeal to the Real Eyes Optometry audience. Writing about their business in a way that promotes their interests to their customers. Copy is specifically designed to compliment the structure of the website and take into account vital search engine optimization (SEO) practices. 
+      
 <b>Blog: Contact Lenses vs. Glasses (5 Professional Pros & Cons)</b>     
 Contact Lenses vs. Glasses? The choice is personal and the best option for you is heavily tied in with your lifestyle. Read our top 5 professional pros and cons for each.
      

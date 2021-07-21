@@ -3,6 +3,13 @@
 
 # The Empty Chest - Small B2C Events Company 
 
+This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020. The customer ask was;
+-	Set clear expectations regarding the customer experience during the event.
+-	Write a compelling narrative that creates interest by pulling the reader into the storyline.
+-	Product positioning, highlighting the unique aspects to differentiate the event in comparison to competing Halloween events such as PNE’s Fright Nights. 
+
+
+
 <b> Halloween Event Marketing Campaign - Outcome Summary</b>
 
 <b>Stage 1 - Content Creation </b> 
@@ -23,12 +30,6 @@
 - Accounts Reached increase 100%<
 - All event tickets sold out October 27th 
 
-This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020. The customer ask was;
--	Set clear expectations regarding the customer experience during the event.
--	Write a compelling narrative that creates interest by pulling the reader into the storyline.
--	Product positioning, highlighting the unique aspects to differentiate the event in comparison to competing Halloween events such as PNE’s Fright Nights. 
-
-Based on customer ask, the below strategy was developed;
 
 <b>Stage 1 - Content Creation</b>
 The Empty Chest has a unique Halloween event that pulls its customers into its own immersive world. Drawing customers into that fantasy is done through a combination of storytelling and imagery. Content creation is important, not only having vivid images to post on their website and social media (to advertise and increase following), but also helps set customer expecations on the experience. A photoshoot was scheduled and curated the visuals and narrative which resulted in compelling imagry that was essential in drawing customers into the world and increase the effectiveness of the following stages.

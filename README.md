@@ -1,6 +1,50 @@
 # Marketing-Manager-Consultant-Work
 
 
+# Real Eyes Optometry - Optometrist
+     
+<b>SEO Copy Writing</b>
+
+Created original content to appeal to the Real Eyes Optometry audience. Writing about their business in a way that promotes their interests to their customers. Copy is specifically designed to compliment the structure of the website and take into account vital search engine optimization (SEO) practices. 
+      
+<b><a href="https://www.realeyesoptometry.com/lenses-glasses-pros-cons/">Product Web Page: Radio Frequency Treatment for Dry Eye and Anti-Aging</a></b> Radio Frequency for Dry Eye and Anti-Aging treatment all in one. With No Surgery. No Needles. No Downtime.
+     
+<b><a href="https://www.realeyesoptometry.com/contact-lens-fitting-ultimate-guide/">Contact Lens Fitting vs. Eye Exam (2022 Ultimate Guide)</a></b> Contact lenses are not one-size-fits-all. A contact lens fitting is vital to ensure that the lenses fit properly and don't negatively impact your eyes or vision.
+    
+<b><a href="https://www.realeyesoptometry.com/radio-frequency-treatments/">Radio Frequency Treatment Ultimate Guide (7 Optometrist Verified Facts)</a></b> Read the ultimate guide to radio frequency treatments, including 7 important optometrist verified facts and what it means for you.
+     
+<b><a href="https://www.realeyesoptometry.com/christmas-gifts-ideas-2021/">Christmas Gifts Ideas for Every Type of Person 2021</a></b> Christmas gifts ideas for everyone on your list  — from the person who has everything, adventure lovers, foodies, to workaholics. Check out our curated list.
+     
+<b><a href="https://www.realeyesoptometry.com/red-eyes-blurred-vision/">Red Eyes & Blurred Vision: Ultimate Guide (6 Best Treatments)</a></b> Do you experience red eyes, blurred vision or watery eyes when reading or watching TV? If so, dry eyes may be the culprit.
+     
+<b><a href="https://www.realeyesoptometry.com/digital-eye-strain/">Digital Eye Strain 2021 (8 Best Optometrist Tips)</a></b> Understand what Digital Eye Strain is and what to do about it.
+
+<b><a href="https://www.realeyesoptometry.com/picking-glasses/">Picking Glasses for Your Face Shape (4 Best Tips)</a></b> Picking glasses for your face shape can be simple. Let us help you figure out what to consider when making your decision.
+     
+<b><a href="https://www.realeyesoptometry.com/conjunctivitis-pinkeye-treatments/">Conjunctivitis Causes & Symptoms — Optometrist Verified (4 At-Home Pink Eye Treatments)</a></b> Check out conjunctivitis (pink eye) causes, symptoms, what it means for you, and optometrist verified at-home treatments.
+     
+<b><a href="https://www.realeyesoptometry.com/complete-guide-to-astigmatism/">Complete Guide to Astigmatism (5 FAQs & How to Fix it)</a></b> Many of us haven't seen much of the outside world during the pandemic; however, if you suffer from astigmatism, this is an ongoing issue. 
+     
+<b><a href="https://www.realeyesoptometry.com/best-pediatric-optometrist-kids-eye-doctor/">6 Tips for Choosing the Best Pediatric Optometrist (Kids Eye Doctor)</a></b> Choosing a new pediatric optometrist is a personal choice that needs to work long-term for you and your family.  Learn how to choose for your needs.
+     
+<b><a href="https://www.realeyesoptometry.com/protect-your-eyes-in-summer/">11 Best Ways to Protect Your Eyes This Summer (Optometrist Tips)</a></b> Without proper protection, your eyes can in fact get sunburned. If you are summer camping, or participating in outdoor sports this summer, here are some simple tips so you can maintain good vision for many summers to come!
+
+<b><a href="https://www.realeyesoptometry.com/uv-affect-on-eyes-and-skin/">Dry Eyes Do’s & Don’ts (and the 3 Best Treatment Options)</a></b> Tears are needed to nourish the eyes. Without proper moisture, dry eyes can lead to impaired vision. Learn easy do's and don'ts, along with treatment options.
+     
+<b><a href="https://www.realeyesoptometry.com/dry-eyes-dos-donts-treatment-options/">UV Affect On Your Eyes & Skin (5 Helpful Overexposure Tips)</a></b> Without UV protection, your eyes can get sunburned the same way skin can. Learn how to protect your eyes, and what happens if your eyes are damaged.
+
+<b><a href="https://www.realeyesoptometry.com/lenses-glasses-pros-cons/">Contact Lenses vs. Glasses (5 Professional Pros & Cons)</a></b> Contact Lenses vs. Glasses? The choice is personal and the best option for you is tied to your lifestyle. Read our top 5 professional pros and cons for each. 
+    
+<b><a href="https://www.realeyesoptometry.com/optometrist-eye-exam-save-your-life/">Best Reasons to See Your Optometrist (An Eye Exam Could Help Save Your Life)</a></b> May is Vision Health Month, an opportunity to raise awareness about the importance of eye health, the role optometrists play, and what can be done to help prevent vision loss.      
+      
+<b><a href="https://www.realeyesoptometry.com/allergy-triggers-7-best-relief/">Allergy Triggers & its Symptoms (7 Best Paths to Relief)</a></b> It's allergy symptom again, with lots of us suffering from symptoms ranging from mild to severe reactions. Learn what triggers to stay away from, and the best paths to allergy relief.
+     
+<b><a href="https://www.realeyesoptometry.com/womens-health-vision-loss/">Womens Health & Vision Loss (Shocking Facts & 6 Easy Ways to Help Save Your Eyes)</a></b> April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
+
+<b><a href="https://www.realeyesoptometry.com/9-dry-eye-symptoms-wrinkle-treatment/">9 Dry Eye Symptoms and a Wrinkle Reducing Treatment</a></b> Radiofrequency treatment is a nonsurgical method of improving dry eyes and tightening your skin by fighting the signs of aging. 
+      
+
+
 # The Empty Chest - Small B2C Events Company 
 
 This Halloween Campaign was created for a Small B2C Events company, hosting a unique haunted house adventure occurring October 30th, 31st and November 1st 2020. The customer ask was;
@@ -93,61 +137,7 @@ Social media posts were used to generate interest in the event, with the longer-
      alt="Hootsuite Scheduled Social Media Posts" 
      style="float: left; margin-right: 0.5px;" /> 
      
-     
-# Real Eyes Optometry - Optometrist
-     
-<b>SEO Copy Writing</b>
 
-Created original content to appeal to the Real Eyes Optometry audience. Writing about their business in a way that promotes their interests to their customers. Copy is specifically designed to compliment the structure of the website and take into account vital search engine optimization (SEO) practices. 
-      
- <b>Product Web Page: Radio Frequency Treatment for Dry Eye and Anti-Aging</b>     
-Radio Frequency for Dry Eye and Anti-Aging treatment all in one. With No Surgery. No Needles. No Downtime.
-     
-<UL><LI><a href="https://www.realeyesoptometry.com/radio-frequency-for-dry-eye/>Visit Product Page</a>
-</UL>     
-     
-
-<b>Blog: Contact Lenses vs. Glasses (5 Professional Pros & Cons)</b>     
-Contact Lenses vs. Glasses? The choice is personal and the best option for you is heavily tied in with your lifestyle. Read our top 5 professional pros and cons for each.
-     
-<UL><LI><a href="https://www.realeyesoptometry.com/lenses-glasses-pros-cons/">Visit Blog</a>
-</UL>     
- 
-     
-<b>Blog: Allergy Triggers & its Symptoms (7 Best Paths to Relief)</b>     
-It's allergy symptom again, with lots of us suffering from symptoms ranging from mild to severe reactions. Learn what triggers to stay away from, and the best paths to allergy relief.
-     
-<UL><LI><a href="https://www.realeyesoptometry.com/allergy-triggers-7-best-relief/">Visit Blog</a>
-</UL>     
- 
-     
-<b>Blog: Womens Health & Vision Loss (Shocking Facts & 6 Easy Ways to Help Save Your Eyes)</b>     
-April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
-     
-<UL><LI><a href="https://www.realeyesoptometry.com/womens-health-vision-loss/>Visit Blog</a>
-</UL>     
-
-     
-<b>Blog: 9 Dry Eye Symptoms and a Wrinkle Reducing Treatment</b>     
-April is all about Womens Health. Learn the facts, if you are at risk, and what to do about it.
-     
-<UL><LI><a href="https://www.realeyesoptometry.com/9-dry-eye-symptoms-wrinkle-treatment/>Visit Blog</a>
-</UL>   
-
-     
-<b>Blog: UV Affect On Your Eyes & Skin (5 Helpful Overexposure Tips)</b>     
-Without UV protection, your eyes can get sunburned the same way skin can. Learn how to protect your eyes, and what happens if your eyes are damaged.
-     
-<UL><LI><a href="https://www.realeyesoptometry.com/uv-affect-on-eyes-and-skin/>Visit Blog</a>
-</UL>       
-     
-       
-<b>Blog: Best Reasons to See Your Optometrist (An Eye Exam Could Help Save Your Life)</b>     
-May is Vision Health Month, an opportunity to raise awareness about the importance of eye health, the role optometrists play, and what can be done to help prevent vision loss.      
-<UL><LI><a href=https://www.realeyesoptometry.com/optometrist-eye-exam-save-your-life/>Visit Blog</a>
-</UL>       
-     
-     
 # Tastefully Yours by Jeff - Cafe & Caterer
 
 <b>Website Management & Marketing Plan Presentation</b>
